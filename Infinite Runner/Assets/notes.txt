@@ -1,0 +1,8 @@
+- The animation standing requires a pingpong loop animation, this saves some sprites ( like example 1,2,3,4,3,2,1) 
+- The jump animation need a pingpong animation to be completed 
+- All standing and aerial shots needs a pingpong animation to back at standing pose
+- the last 2 sprites of all standing shot animation must be repeated for constant fire
+- the dash animation can be looped
+
+These are just some notes. operation depends more than required by the developer. 
+After taking the sprites you decide which you need and which are not
